@@ -1,4 +1,5 @@
-[![MasterHead]([https://media-exp1.licdn.com/dms/imag...](https://amitkrportfolio.netlify.app/static/media/hero.2b74ae35.png))](https://amitkrportfolio.netlify.app/)
+[![MasterHead](https://amitkrportfolio.netlify.app/static/media/hero.2b74ae35.png)](https://github.com/MrAmitkr)
+
 
 <h1 align="center">Hi 👋, I'm Amit Kr. Sharma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
