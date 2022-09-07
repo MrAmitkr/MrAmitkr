@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://drive.google.com/file/d/1H8fyHTJd8plWQNdoaOnWWC5mLOXRiIdj/view?usp=sharing)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Amit Kr. Sharma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
