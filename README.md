@@ -29,7 +29,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-(img align="right" alt="Coding" width="400" src="https://fbcoverstreet.com/content/RNPERatULMNBPV1qtT52Y8zMrVe2Vl7CJN3hCa4aNw256xjut4byXaBSWCV5628i.jpg")
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/264642...](https://fbcoverstreet.com/content/RNPERatULMNBPV1qtT52Y8zMrVe2Vl7CJN3hCa4aNw256xjut4byXaBSWCV5628i.jpg)")
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amitkrsh1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amitkrsh1999/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100065157551358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100065157551358" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/doin_devils/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/doin_devils/" height="30" width="40" /></a>
