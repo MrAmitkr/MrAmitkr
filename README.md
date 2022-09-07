@@ -29,7 +29,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-(img align="right" alt="Coding" width="400" src="https://fbcoverstreet.com/content/RNPERatULMNBPV1qtT52Y8zMrVe2Vl7CJN3hCa4aNw256xjut4byXaBSWCV5628i.jpg")
 
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amitkrsh1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amitkrsh1999/" height="30" width="40" /></a>
