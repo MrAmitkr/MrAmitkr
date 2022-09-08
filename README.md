@@ -4,6 +4,12 @@
 <h1 align="center">Hi 👋, I'm Amit Kr. Sharma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+<p align="left">  </p>
+I'm a Full Stack Developer with a keen interest in Web Development and also have a hands-on experience in golang. Always been interested to learn more about different tools & techniques to enhance my skills & knowledge. I can describe myself as a Team player, a self-motivated person who loves challenges that come along the way.
+
+
+<h3 align="left"> Quick Bugs </h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mramitkr&label=Profile%20views&color=0e75b6&style=flat" alt="mramitkr" /> </p>
 
 - 🔭 I’m currently working on **full stack movie review app**
