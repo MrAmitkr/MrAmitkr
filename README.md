@@ -1,4 +1,4 @@
-[![MasterHead](https://numenrecords.co.uk/wp-content/uploads/2013/04/Bruce-lee-be-like-water.jpg)](https://github.com/MrAmitkr)
+[![MasterHead](https://timelinecovers.pro/facebook-cover/download/bruce-lee-fighting-facebook-cover.jpg)](https://github.com/MrAmitkr)
 
 
 <h1 align="center">Hi 👋, I'm Amit Kr. Sharma</h1>
