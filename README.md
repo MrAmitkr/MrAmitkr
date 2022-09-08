@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.quotesgram.com/img/99/75/1360446740-bruce_lee_cover_photo.jpg)](https://github.com/MrAmitkr)
+[![MasterHead ](https://ultragraphicsmt.com/wp-content/uploads/2015/09/feature-image-bruce-lee.jpg)](https://github.com/MrAmitkr)
 
 
 <h1 align="center">Hi 👋, I'm Amit Kr. Sharma</h1>
